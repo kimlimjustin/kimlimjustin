@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm Justin from Indonesia. I am a junior high school student who loves programming. Subscribe to my newsletter [here](https://kimlim.net/).
 
-![kimlimjustin's github stats](https://github-readme-stats.vercel.app/api?username=kimlimjustin&show_icons=true&theme=tokyonight)
+I'm Justin from Indonesia. I am a junior high school student who loves programming. Subscribe to my newsletter [here](https://kimlim.net/). Any ideas or suggestions please comment it [here](https://google-forms-clone.herokuapp.com/form/Xc3QBpOowZGikOaT8jVfvxen7e8Ysc/viewform).
+<div align = 'center'>
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kimlimjustin&langs_count=8" alt = "Top Langs">
+<img src = "https://metrics.lecoq.io/kimlimjustin?template=classic&config.timezone=Asia%2FJakarta" alt = "Metrics">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimlimjustin&langs_count=8)
+</div>
